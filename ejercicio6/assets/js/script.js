@@ -10,6 +10,7 @@ let f = false;
 document.write(typeof a + "<br>");
 document.write(typeof b + "<br>");
 
+
 document.write(`El tipo de dato es ${typeof a} <br>`);
 
 
